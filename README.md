@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on...
+    - Solar powered fleet management platform
+    - QA / testing automation for solar products
+- 🌱 I’m currently learning Rust 🦀
+- 💬 Ask me about all things Solar! 🌞
+- 📫 You can reach me via email at `ram[at]optivolt[dot]com`
+- 😄 Pronouns: He/him
+
 <!--
 **imbuedhope/imbuedhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
