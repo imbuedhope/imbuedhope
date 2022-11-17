@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on...
-    - Solar powered fleet management platform
-    - QA / testing automation for solar products
+    - Solar telemetry solutions
+    - Solar performance modeling
+    - Firmware for solar power electronics
+    - QA automation and testing tools for solar products
 - 🌱 I’m currently learning Rust 🦀
 - 💬 Ask me about all things Solar! 🌞
 - 📫 You can reach me via email at `ram[at]optivolt[dot]com`
