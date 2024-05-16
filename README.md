@@ -4,8 +4,8 @@
     - Solar telemetry solutions
     - Solar performance modeling
     - Firmware for solar power electronics
-    - QA automation and testing tools for solar products
-    - Security auditing for embedded operating systems
+    - QA automation and software enabled hardware testing
+    - Security auditing for embedded Linux operating systems
     - Drone control systems
 - 🌱 I’m currently learning Rust 🦀
 - 💬 Ask me about all things Solar! 🌞
