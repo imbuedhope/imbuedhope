@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on...
+- 🔭 I previously worked on...
     - Solar telemetry solutions
     - Solar performance modeling
     - Firmware for solar power electronics
     - QA automation and testing tools for solar products
+    - Security auditing for embedded operating systems
+    - Drone control systems
 - 🌱 I’m currently learning Rust 🦀
 - 💬 Ask me about all things Solar! 🌞
-- 📫 You can reach me via email at `ram[at]optivolt[dot]com`
+- 📫 You can reach me via email at `sram[at]hey[dot]com`
 - 😄 Pronouns: He/him
 
 <!--
