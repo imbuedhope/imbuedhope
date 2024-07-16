@@ -1,14 +1,16 @@
 ### Hi there 👋
-
+- I'm currently working on...
+   - non exquisite defense systems
+   - ML enabled applications of low cost hardware
+   - [pydep_tool](https://github.com/imbuedhope/pydep_tool)
 - 🔭 I previously worked on...
-    - Solar telemetry solutions
-    - Solar performance modeling
-    - Firmware for solar power electronics
+    - Solar telemetry solutions and performance modeling
+    - Embedded Firmware
     - QA automation and software enabled hardware testing
     - Security auditing for embedded Linux operating systems
     - Drone control systems
-- 🌱 I’m currently learning Rust 🦀
-- 💬 Ask me about all things Solar! 🌞
+- 👯 I’m looking to collaborate on ...
+    - Python dev tools
 - 📫 You can reach me via email at `sram[at]hey[dot]com`
 - 😄 Pronouns: He/him
 
